@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a75e30a5-03dd-4c66-83c5-8503ed045029" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/model/src/principle/segregation/Segregation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/principle/segregation/Segregation1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/src/principle/segregation/improve/Segregation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/principle/segregation/improve/Segregation1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +17,8 @@
       <file leaf-file-name="Segregation1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model/src/principle/segregation/improve/Segregation1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="376">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -55,6 +53,7 @@
         <option value="$PROJECT_DIR$/model/src/principle/singleresponsibility/SingleResponsibility3.java" />
         <option value="$PROJECT_DIR$/model/src/readme.md" />
         <option value="$PROJECT_DIR$/model/src/principle/segregation/Segregation1.java" />
+        <option value="$PROJECT_DIR$/model/src/principle/ocp/improve/Ocp.java" />
         <option value="$PROJECT_DIR$/model/src/principle/segregation/improve/Segregation1.java" />
       </list>
     </option>
@@ -68,7 +67,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="816" />
     <option name="y" value="14" />
     <option name="width" value="1018" />
@@ -97,36 +96,6 @@
               <item name="model" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="segregation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="segregation" type="462c0819:PsiDirectoryNode" />
-              <item name="improve" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="segregation" type="462c0819:PsiDirectoryNode" />
-              <item name="improve" type="462c0819:PsiDirectoryNode" />
-              <item name="Segregation1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -145,11 +114,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\designpattern\designPattern\model\src" />
       <recent name="E:\github\designpattern\designPattern\model\src\principle" />
       <recent name="E:\github\designpattern\designPattern\spring" />
       <recent name="E:\github\designpattern\designPattern\mybatis" />
       <recent name="E:\github\algorithm\algorithm\dynamicprogramming\src" />
-      <recent name="E:\github\algorithm\algorithm\mytest\lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -300,7 +269,7 @@
       <workItem from="1606891819502" duration="1254000" />
       <workItem from="1606893886640" duration="179000" />
       <workItem from="1606919679263" duration="46000" />
-      <workItem from="1607173705960" duration="4938000" />
+      <workItem from="1607173705960" duration="5289000" />
     </task>
     <servers />
   </component>
@@ -337,10 +306,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16138000" />
+    <option name="totallyTimeSpent" value="16489000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="816" y="14" width="1018" height="1025" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
@@ -360,12 +329,12 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.23322332" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.19361702" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="leetcode" order="3" side_tool="true" weight="0.15277778" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.251497" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13125" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -504,19 +473,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/principle/singleresponsibility/SingleResponsibility3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="987">
-          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-          <folding>
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model/src/principle/segregation/newfile2.cld">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
@@ -526,13 +482,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model/src/principle/segregation/newfile.cld">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/principle/segregation/Segregation1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model/src/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -544,10 +493,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/principle/ocp/improve/Ocp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/principle/singleresponsibility/SingleResponsibility3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/principle/segregation/Segregation1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/model/src/principle/segregation/improve/Segregation1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="376">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>

@@ -11,7 +11,6 @@ public class Segregation1 {
 		a.depend3(new B());
 
 		C c = new C();
-
 		c.depend1(new D()); // C类通过接口去依赖(使用)D类
 		c.depend4(new D());
 		c.depend5(new D());
