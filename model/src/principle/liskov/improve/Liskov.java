@@ -9,8 +9,8 @@ public class Liskov {
 		System.out.println("1-8=" + a.func1(1, 8));
 		System.out.println("-----------------------");
 		B b = new B();
-		//因为B类不再继承A类，因此调用者，不会再func1是求减法
-		//调用完成的功能就会很明确
+		//因为B类不再继承A类，所以耦合性降低，同时，通过聚合的方式，B中可以使用
+        // A中的方法
 		System.out.println("11-3+9=" + b.func2(11, 3));
 
 

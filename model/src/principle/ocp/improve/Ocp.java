@@ -3,7 +3,6 @@ package principle.ocp.improve;
 public class Ocp {
 
 	public static void main(String[] args) {
-		//使用看看存在的问题
 		GraphicEditor graphicEditor = new GraphicEditor();
 		graphicEditor.drawShape(new Rectangle());
 		graphicEditor.drawShape(new Circle());
@@ -26,7 +25,6 @@ class GraphicEditor {
 //Shape类，基类
 abstract class Shape {
 	int m_type;
-	
 	public abstract void draw();//抽象方法
 }
 

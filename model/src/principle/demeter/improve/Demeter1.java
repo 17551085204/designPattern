@@ -78,7 +78,6 @@ class SchoolManager {
 	//返回学校总部的员工
 	public List<Employee> getAllEmployee() {
 		List<Employee> list = new ArrayList<Employee>();
-		
 		for (int i = 0; i < 5; i++) { //这里我们增加了5个员工到 list
 			Employee emp = new Employee();
 			emp.setId("学校总部员工id= " + i);
@@ -102,3 +101,5 @@ class SchoolManager {
 		}
 	}
 }
+
+
