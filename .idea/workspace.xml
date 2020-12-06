@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a75e30a5-03dd-4c66-83c5-8503ed045029" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/model/src/principle/composite/newfile.cld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/principle/demeter/Demeter1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/principle/demeter/improve/Demeter1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/principle/inversion/DependecyInversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/principle/inversion/improve/DependecyInversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/principle/inversion/improve/DependencyPass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/principle/liskov/Liskov.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/principle/liskov/improve/Liskov.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/principle/liskov/newfile.cld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/principle/ocp/Ocp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/principle/ocp/improve/Ocp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/principle/segregation/Segregation1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/principle/segregation/improve/Segregation1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/principle/segregation/newfile.cld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/principle/segregation/newfile2.cld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/principle/singleresponsibility/SingleResponsibility1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/principle/singleresponsibility/SingleResponsibility2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/principle/singleresponsibility/SingleResponsibility3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/principle/segregation/Segregation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/principle/segregation/Segregation1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/principle/segregation/improve/Segregation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/principle/segregation/improve/Segregation1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +15,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Segregation1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/model/src/principle/segregation/improve/Segregation1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,10 +50,12 @@
         <option value="$PROJECT_DIR$/mytest/src/my202011/my03.java" />
         <option value="$PROJECT_DIR$/mytest/src/Hello.java" />
         <option value="$PROJECT_DIR$/mytest/src/my202012/mytest1.java" />
-        <option value="$PROJECT_DIR$/model/src/readme.md" />
         <option value="$PROJECT_DIR$/model/src/principle/singleresponsibility/SingleResponsibility1.java" />
         <option value="$PROJECT_DIR$/model/src/principle/singleresponsibility/SingleResponsibility2.java" />
         <option value="$PROJECT_DIR$/model/src/principle/singleresponsibility/SingleResponsibility3.java" />
+        <option value="$PROJECT_DIR$/model/src/readme.md" />
+        <option value="$PROJECT_DIR$/model/src/principle/segregation/Segregation1.java" />
+        <option value="$PROJECT_DIR$/model/src/principle/segregation/improve/Segregation1.java" />
       </list>
     </option>
   </component>
@@ -74,9 +68,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="789" />
-    <option name="y" value="31" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="816" />
+    <option name="y" value="14" />
     <option name="width" value="1018" />
     <option name="height" value="1025" />
   </component>
@@ -108,6 +102,30 @@
               <item name="model" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="principle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="principle" type="462c0819:PsiDirectoryNode" />
+              <item name="segregation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="principle" type="462c0819:PsiDirectoryNode" />
+              <item name="segregation" type="462c0819:PsiDirectoryNode" />
+              <item name="improve" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="principle" type="462c0819:PsiDirectoryNode" />
+              <item name="segregation" type="462c0819:PsiDirectoryNode" />
+              <item name="improve" type="462c0819:PsiDirectoryNode" />
+              <item name="Segregation1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -146,16 +164,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SingleResponsibility3">
+  <component name="RunManager" selected="Application.Segregation1">
     <configuration name="Hello (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="model" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
-      <module name="mytest" />
+    <configuration name="Segregation1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="principle.segregation.improve.Segregation1" />
+      <module name="model" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="principle.segregation.improve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="SingleResponsibility1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="principle.singleresponsibility.SingleResponsibility1" />
@@ -242,19 +266,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Hello" />
       <item itemvalue="Application.Hello (1)" />
       <item itemvalue="Application.SingleResponsibility1" />
       <item itemvalue="Application.SingleResponsibility2" />
       <item itemvalue="Application.SingleResponsibility3" />
+      <item itemvalue="Application.Segregation1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Segregation1" />
         <item itemvalue="Application.SingleResponsibility3" />
         <item itemvalue="Application.SingleResponsibility2" />
         <item itemvalue="Application.SingleResponsibility1" />
         <item itemvalue="Application.Hello (1)" />
-        <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +300,7 @@
       <workItem from="1606891819502" duration="1254000" />
       <workItem from="1606893886640" duration="179000" />
       <workItem from="1606919679263" duration="46000" />
-      <workItem from="1607173705960" duration="3251000" />
+      <workItem from="1607173705960" duration="4938000" />
     </task>
     <servers />
   </component>
@@ -313,10 +337,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14451000" />
+    <option name="totallyTimeSpent" value="16138000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="789" y="31" width="1018" height="1025" extended-state="1" />
+    <frame x="816" y="14" width="1018" height="1025" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -453,16 +478,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="188">
-            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model/src/principle/singleresponsibility/SingleResponsibility1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
@@ -499,6 +514,40 @@
             <element signature="e#668#669#0" expanded="true" />
             <element signature="e#719#720#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/principle/segregation/newfile2.cld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/principle/segregation/newfile.cld">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/principle/segregation/Segregation1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="235">
+            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/principle/segregation/improve/Segregation1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
