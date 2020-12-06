@@ -1,5 +1,5 @@
 package principle.inversion;
-
+// 依赖倒转原则
 public class DependecyInversion {
 
 	public static void main(String[] args) {

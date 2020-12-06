@@ -6,7 +6,7 @@ public class DependecyInversion {
 		//客户端无需改变
 		Person person = new Person();
 		person.receive(new Email());
-		
+		person.receive(new QQ());
 		person.receive(new WeiXin());
 	}
 
@@ -14,7 +14,7 @@ public class DependecyInversion {
 
 //定义接口
 interface IReceiver {
-	public String getInfo();
+	String getInfo();// 接口的抽象方法，子类实现
 }
 
 class Email implements IReceiver {
@@ -28,6 +28,13 @@ class WeiXin implements IReceiver {
 	public String getInfo() {
 		return "微信信息: hello,ok";
 	}
+}
+
+//增加QQ
+class QQ implements IReceiver {
+    public String getInfo() {
+        return "QQ信息: hello,qq";
+    }
 }
 
 //方式2
