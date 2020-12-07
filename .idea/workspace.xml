@@ -13,7 +13,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/model/src/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="569">
+                <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,8 +75,9 @@
         <option value="$PROJECT_DIR$/model/src/principle/ocp/improve/Ocp.java" />
         <option value="$PROJECT_DIR$/model/src/principle/demeter/improve/Demeter1.java" />
         <option value="$PROJECT_DIR$/model/src/principle/composite/test.puml" />
-        <option value="$PROJECT_DIR$/model/src/readme.md" />
         <option value="$PROJECT_DIR$/model/src/principle/composite/a.java" />
+        <option value="$PROJECT_DIR$/model/src/uml/readme.md" />
+        <option value="$PROJECT_DIR$/model/src/readme.md" />
       </list>
     </option>
   </component>
@@ -76,9 +90,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="817" />
+    <option name="y" value="6" />
     <option name="width" value="1018" />
     <option name="height" value="855" />
   </component>
@@ -90,6 +104,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,18 +118,10 @@
               <item name="model" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -294,6 +302,7 @@
       <workItem from="1607237286952" duration="5155000" />
       <workItem from="1607254163533" duration="5226000" />
       <workItem from="1607334267151" duration="435000" />
+      <workItem from="1607334737329" duration="2624000" />
     </task>
     <servers />
   </component>
@@ -330,10 +339,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27305000" />
+    <option name="totallyTimeSpent" value="29929000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="834" y="0" width="1018" height="855" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" weight="0.29097223" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -351,7 +361,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22083333" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22083333" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -375,7 +385,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mytest/readme.md" />
     <entry file="file://$PROJECT_DIR$/mytest/src/my202011/my01.java" />
     <entry file="file://$PROJECT_DIR$/binary/src/BinarySearch.java" />
     <entry file="file://$PROJECT_DIR$/dynamicprogramming/src/Exchange.java" />
@@ -675,18 +684,26 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model/src/principle/composite/a.java" />
-    <entry file="file://$PROJECT_DIR$/model/src/readme.md">
+    <entry file="file://$PROJECT_DIR$/model/src/principle/a.puml" />
+    <entry file="file://$PROJECT_DIR$/model/src/uml/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="390">
-            <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/principle/a.puml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/model/src/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="569">
+            <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
