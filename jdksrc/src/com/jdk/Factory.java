@@ -1,9 +1,6 @@
 package com.jdk;
-
 import java.util.Calendar;
-
 public class Factory {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// getInstance 是 Calendar 静态方法
@@ -15,12 +12,8 @@ public class Factory {
 		System.out.println("时:" + cal.get(Calendar.HOUR_OF_DAY));
 		System.out.println("分:" + cal.get(Calendar.MINUTE));
 		System.out.println("秒:" + cal.get(Calendar.SECOND));
-	    
-	    
 
-	    
 	}
-
 }
 
 

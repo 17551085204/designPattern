@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a75e30a5-03dd-4c66-83c5-8503ed045029" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/order/AbsFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/order/BJFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/order/LDFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/order/OrderPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/order/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/pizza/BJCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/pizza/BJPepperPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/pizza/LDCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/pizza/LDPepperPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/pizza/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/order/BJOrderPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/order/LDOrderPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/order/OrderPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/order/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/pizza/BJCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/pizza/BJPepperPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/pizza/LDCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/pizza/LDPepperPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/pizza/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/improve/order/OrderPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/improve/order/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/improve/order/SimpleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/improve/pizza/ChessPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/improve/pizza/GreekPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/improve/pizza/PepperPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/improve/pizza/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/order/OrderPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/order/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/pizza/ChessPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/pizza/GreekPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/pizza/PepperPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/pizza/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/model/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/model/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdksrc/src/com/jdk/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdksrc/src/com/jdk/Factory.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,8 +32,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/model/src/principle/singleresponsibility/SingleResponsibility3.java" />
-        <option value="$PROJECT_DIR$/model/src/principle/segregation/Segregation1.java" />
         <option value="$PROJECT_DIR$/model/src/principle/segregation/improve/Segregation1.java" />
         <option value="$PROJECT_DIR$/model/src/principle/inversion/DependecyInversion.java" />
         <option value="$PROJECT_DIR$/model/src/principle/inversion/improve/DependecyInversion.java" />
@@ -117,6 +81,8 @@
         <option value="$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/order/LDFactory.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/order/OrderPizza.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/order/PizzaStore.java" />
+        <option value="$PROJECT_DIR$/jdksrc/src/com/jdk/factory/Factory.java" />
+        <option value="$PROJECT_DIR$/jdksrc/src/com/jdk/Factory.java" />
       </list>
     </option>
   </component>
@@ -149,12 +115,18 @@
           <expand>
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdksrc" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdksrc" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="creationtype" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -175,11 +147,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\designpattern\designPattern\jdksrc\src\com\jdk\factory" />
       <recent name="E:\github\designpattern\designPattern\model\src\designModel\creationtype\factory\absfactory" />
       <recent name="E:\github\designpattern\designPattern\model\src\designModel\creationtype\factory\factorymethod\order" />
       <recent name="E:\github\designpattern\designPattern\model\src\designModel\creationtype\factory\factorymethod" />
       <recent name="E:\github\designpattern\designPattern\model\src\designModel\creationtype\factory\simplefactory\improve" />
-      <recent name="E:\github\designpattern\designPattern\model\src\designModel\creationtype\singleton\type6" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -378,10 +350,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41262000" />
+    <option name="totallyTimeSpent" value="41773000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" weight="0.29097223" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -402,7 +374,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="leetcode" order="3" side_tool="true" weight="0.15277778" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.41595745" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.41595745" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13541667" />
@@ -447,37 +419,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/model/src/principle/composite/a.puml" />
-    <entry file="file://$PROJECT_DIR$/model/src/principle/demeter/improve/Demeter1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="100" column="9" lean-forward="true" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/principle.composite.a">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>principle.composite.a</OriginalElement>
-          <nodes>
-            <node x="0.0" y="0.0">principle.composite.a</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-293.0" y="-2.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/principle/composite/a.java" />
     <entry file="file://$PROJECT_DIR$/model/src/principle/a.puml" />
     <entry file="file://$PROJECT_DIR$/model/src/uml/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -806,6 +747,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdksrc/src/com/jdk/factory/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/jre/lib/rt.jar!/sun/util/spi/CalendarProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/src.zip!/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-398">
+          <caret line="1669" column="9" lean-forward="true" selection-start-line="1669" selection-start-column="9" selection-end-line="1669" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdksrc/src/com/jdk/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
         </state>
       </provider>
     </entry>
