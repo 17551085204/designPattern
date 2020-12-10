@@ -2,32 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a75e30a5-03dd-4c66-83c5-8503ed045029" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/prototype/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/prototype/Sheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/prototype/deepclone/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/prototype/deepclone/DeepCloneableTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/prototype/deepclone/DeepProtoType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/prototype/improve/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/prototype/improve/Sheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/com/atguigu/spring/bean/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/com/atguigu/spring/springmvc/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/com/atguigu/spring/springmvc/DispatchServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/com/atguigu/spring/springmvc/HandlerAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/com/atguigu/spring/springmvc/newfile.cld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/com/atguigu/spring/test/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/com/atguigu/spring/test/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/com/atguigu/spring/test/Interpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/com/atguigu/spring/test/ProtoType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/com/atguigu/spring/test/ResponsibilityChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/com/atguigu/spring/test/Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/com/atguigu/spring/test/template.cld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/my.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdksrc/src/com/jdk/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/build/AbsHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/build/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/build/CommonHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/build/improve/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/build/improve/CommonHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/build/improve/HighBuilding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/build/improve/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/build/improve/HouseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/creationtype/build/improve/HouseDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/structuretype/adapter/classadapter/Vol220V.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jdksrc/com/jdk/Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jdksrc/com/jdk/Factory.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/model/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/model/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/spring.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,37 +32,10 @@
         <entry file="file://$PROJECT_DIR$/model/src/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="429">
-                <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+              <first_editor relative-caret-position="271">
+                <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/prototype/deepclone/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DeepCloneableTarget.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/prototype/deepclone/DeepCloneableTarget.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DeepProtoType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/prototype/deepclone/DeepProtoType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="56" column="36" lean-forward="true" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -97,26 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/model/src/principle/inversion/demo/InversionPrincipleDemo2.java" />
-        <option value="$PROJECT_DIR$/model/src/principle/inversion/demo/demo1/InversionPrincipleDemo1.java" />
-        <option value="$PROJECT_DIR$/model/src/principle/inversion/demo/demo2/InversionPrincipleDemo2.java" />
-        <option value="$PROJECT_DIR$/model/src/principle/inversion/demo/demo3/InversionPrincipleDemo2.java" />
-        <option value="$PROJECT_DIR$/model/src/principle/inversion/demo/demo3/InversionPrincipleDemo3.java" />
-        <option value="$PROJECT_DIR$/mytest/src/my202012/inversion/ReceiveInfo.java" />
-        <option value="$PROJECT_DIR$/model/src/principle/liskov/improve/Liskov.java" />
-        <option value="$PROJECT_DIR$/model/src/principle/ocp/improve/Ocp.java" />
-        <option value="$PROJECT_DIR$/model/src/principle/demeter/improve/Demeter1.java" />
-        <option value="$PROJECT_DIR$/model/src/principle/composite/test.puml" />
-        <option value="$PROJECT_DIR$/model/src/principle/composite/a.java" />
-        <option value="$PROJECT_DIR$/model/src/uml/readme.md" />
-        <option value="$PROJECT_DIR$/model/src/designModel/creationtype/singleton/type1/SingletonTest01.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/creationtype/singleton/type2/SingletonTest02.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/creationtype/singleton/type3/SingletonTest03.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/creationtype/singleton/type4/SingletonTest04.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/creationtype/singleton/type5/SingletonTest05.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/creationtype/singleton/type6/SingletonTest06.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/pizza/Pizza.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/pizza/ChessPizza.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/pizza/GreekPizza.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/order/PizzaStore.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/pizza/PepperPizza.java" />
@@ -147,6 +89,26 @@
         <option value="$PROJECT_DIR$/model/src/designModel/creationtype/prototype/deepclone/DeepCloneableTarget.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/creationtype/prototype/deepclone/DeepProtoType.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/creationtype/prototype/deepclone/Client.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/creationtype/build/AbsHouse.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/creationtype/build/CommonHouse.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/creationtype/build/Client.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/creationtype/build/improve/House.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/creationtype/build/improve/HouseBuilder.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/creationtype/build/improve/CommonHouse.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/creationtype/build/improve/HouseDirector.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/creationtype/build/improve/Client.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/creationtype/build/improve/HighBuilding.java" />
+        <option value="$PROJECT_DIR$/jdksrc/src/com/jdk/Builder.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/structuretype/adapter/classadapter/Vol220V.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/structuretype/adapter/classadapter/Vol5V.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/structuretype/adapter/classadapter/VolAdapter.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/structuretype/adapter/classadapter/Phone.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/structuretype/adapter/classadapter/Client.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/structuretype/adapter/objadapter/VolAdapter.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/structuretype/adapter/objadapter/Client.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/structuretype/adapter/interfaceadapter/Interface4.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/structuretype/adapter/interfaceadapter/AbsAdapter.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/structuretype/adapter/interfaceadapter/Client.java" />
         <option value="$PROJECT_DIR$/model/src/readme.md" />
       </list>
     </option>
@@ -160,11 +122,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="234" />
-    <option name="y" value="50" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="275" />
+    <option name="y" value="37" />
     <option name="width" value="1578" />
-    <option name="height" value="1047" />
+    <option name="height" value="1046" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -191,7 +153,7 @@
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="creationtype" type="462c0819:PsiDirectoryNode" />
+              <item name="designModel" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -213,11 +175,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\designpattern\designPattern\model\src\designModel\structuretype\adapter\interfaceadapter" />
+      <recent name="E:\github\designpattern\designPattern\model\src\designModel\structuretype\adapter\objadapter" />
+      <recent name="E:\github\designpattern\designPattern\jdksrc\src\com\jdk" />
       <recent name="E:\github\designpattern\designPattern\model\src\designModel\creationtype\prototype\deepclone" />
       <recent name="E:\github\designpattern\designPattern\spring\src" />
-      <recent name="E:\github\designpattern\designPattern\model\src\designModel\creationtype\prototype\improve" />
-      <recent name="E:\github\designpattern\designPattern\jdksrc\src\com\jdk\factory" />
-      <recent name="E:\github\designpattern\designPattern\model\src\designModel\creationtype\factory\absfactory" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -232,42 +194,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (2)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designModel.creationtype.prototype.improve.Client" />
-      <module name="model" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designModel.creationtype.prototype.improve.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designModel.creationtype.prototype.deepclone.Client" />
-      <module name="model" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designModel.creationtype.prototype.deepclone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designModel.creationtype.prototype.Client" />
-      <module name="model" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designModel.creationtype.prototype.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Factory (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jdk.Factory" />
+  <component name="RunManager" selected="Application.DispatchServlet">
+    <configuration name="Builder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jdk.Builder" />
       <module name="jdksrc" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -277,13 +206,46 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ProtoType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring.test.ProtoType" />
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designModel.structuretype.adapter.objadapter.Client" />
+      <module name="model" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designModel.structuretype.adapter.objadapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designModel.structuretype.adapter.interfaceadapter.Client" />
+      <module name="model" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designModel.structuretype.adapter.interfaceadapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designModel.structuretype.adapter.classadapter.Client" />
+      <module name="model" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designModel.structuretype.adapter.classadapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DispatchServlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring.springmvc.DispatchServlet" />
       <module name="spring" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.spring.test.*" />
+          <option name="PATTERN" value="com.atguigu.spring.springmvc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,19 +302,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Factory (1)" />
+      <item itemvalue="Application.Builder" />
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.Client (1)" />
-      <item itemvalue="Application.ProtoType" />
       <item itemvalue="Application.Client (2)" />
+      <item itemvalue="Application.DispatchServlet" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DispatchServlet" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.ProtoType" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Factory (1)" />
+        <item itemvalue="Application.Builder" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +343,7 @@
       <workItem from="1607334737329" duration="6015000" />
       <workItem from="1607424494632" duration="221000" />
       <workItem from="1607440733191" duration="54000" />
-      <workItem from="1607599894241" duration="3302000" />
+      <workItem from="1607599894241" duration="11085000" />
     </task>
     <servers />
   </component>
@@ -418,11 +380,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45129000" />
+    <option name="totallyTimeSpent" value="52912000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="343" y="38" width="1578" height="1046" extended-state="0" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" weight="0.29097223" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -443,10 +404,10 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="leetcode" order="3" side_tool="true" weight="0.15277778" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.32340425" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.37849462" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22916667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20806658" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -464,144 +425,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/improve/pizza/GreekPizza.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/improve/pizza/PepperPizza.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/improve/pizza/ChessPizza.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/improve/pizza/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/improve/order/OrderPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/improve/order/SimpleFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/simplefactory/improve/order/PizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/pizza/GreekPizza.java" />
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/pizza/PepperPizza.java" />
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/pizza/ChessPizza.java" />
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/pizza/BJCheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/pizza/BJPepperPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/pizza/LDPepperPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/pizza/LDCheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/pizza/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/order/LDOrderPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/order/OrderPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/order/PizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/order/LDOrderPizza.java" />
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/pizza/BJCheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/pizza/LDPepperPizza.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/order/BJOrderPizza.java" />
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/pizza/LDCheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/pizza/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/pizza/BJPepperPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/order/AbsFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/factorymethod/order/BJOrderPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/order/BJFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/factory/absfactory/order/LDFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
@@ -702,9 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring/src/com/atguigu/spring/test/template.cld">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring/src/beans.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
@@ -764,11 +584,259 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/build/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/build/CommonHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/build/AbsHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/build/improve/House.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/build/improve/HouseBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/build/improve/CommonHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/build/improve/HouseDirector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/build/improve/HighBuilding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/creationtype/build/improve/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4241">
+          <caret line="327" column="20" lean-forward="true" selection-start-line="327" selection-start-column="20" selection-end-line="327" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdksrc/src/com/jdk/Builder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/structuretype/adapter/classadapter/Vol5V.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/structuretype/adapter/classadapter/Vol220V.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/structuretype/adapter/classadapter/VolAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/structuretype/adapter/classadapter/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/structuretype/adapter/classadapter/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/structuretype/adapter/objadapter/Vol220V.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/structuretype/adapter/objadapter/Vol5V.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/structuretype/adapter/objadapter/VolAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/structuretype/adapter/objadapter/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/structuretype/adapter/objadapter/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/structuretype/adapter/interfaceadapter/Interface4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/structuretype/adapter/interfaceadapter/AbsAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/structuretype/adapter/interfaceadapter/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/com/atguigu/spring/springmvc/HandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/com/atguigu/spring/springmvc/DispatchServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1083#1084#0" expanded="true" />
+            <element signature="e#1135#1136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/com/atguigu/spring/springmvc/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/com/atguigu/spring/springmvc/newfile.cld">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/com/atguigu/spring/test/template.cld">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/model/src/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="429">
-            <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+          <first_editor relative-caret-position="271">
+            <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
           </first_editor>
           <second_editor />
         </state>
