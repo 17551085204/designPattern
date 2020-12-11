@@ -122,7 +122,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="4" />
     <option name="y" value="7" />
     <option name="width" value="1460" />
@@ -366,7 +366,7 @@
       <workItem from="1607424494632" duration="221000" />
       <workItem from="1607440733191" duration="54000" />
       <workItem from="1607599894241" duration="11085000" />
-      <workItem from="1607685239518" duration="4021000" />
+      <workItem from="1607685239518" duration="4149000" />
     </task>
     <servers />
   </component>
@@ -403,7 +403,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56933000" />
+    <option name="totallyTimeSpent" value="57061000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -426,7 +426,7 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.26771653" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.26771653" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="leetcode" order="3" side_tool="true" weight="0.15277778" />
       <window_info anchor="bottom" id="Spring" order="8" />
