@@ -16,7 +16,33 @@ public class mytest1 {
     }
 
     public static void main(String[] args) {
-        System.out.println("hello world");
-        new mytest1().printArray();
+        int[] height={1,2,3,2};
+        System.out.println(maxArea(height));
+
+
     }
+
+    // 双指针法解决盛最多水的问题
+    public static int maxArea(int[]height){
+        int left=0;
+        int right=height.length-1;
+        int max=0;
+        while (left<right){
+            int temp=Math.min(height[left],height[right])*(right-left);
+            max=Math.max(temp,max);
+            if(height[left]<=height[right]){
+                left++;
+            }else{
+                right--;
+            }
+
+        }
+        return max;
+
+
+    }
+
+
+
+
 }
