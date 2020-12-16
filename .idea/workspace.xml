@@ -36,8 +36,8 @@
         <entry file="file://$PROJECT_DIR$/model/src/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="256">
-                <caret line="223" lean-forward="true" selection-start-line="223" selection-end-line="223" />
+              <first_editor relative-caret-position="296">
+                <caret line="231" lean-forward="true" selection-start-line="231" selection-end-line="231" />
               </first_editor>
               <second_editor />
             </state>
@@ -65,13 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/template/Client.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/command/Command.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/command/LightReceiver.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/command/LightOnCommand.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/command/LightOffCommand.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/command/NoCommand.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/command/RemoteController.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/command/TVReceiver.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/command/TVOffCommand.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/command/TVOnCommand.java" />
@@ -114,8 +107,15 @@
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/mediator/smarthouse/TV.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/memento/theory/Memento.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/memento/theory/Client.java" />
-        <option value="$PROJECT_DIR$/model/src/readme.md" />
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/memento/game/Memento.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/AddExpression.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/Calculator.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/ClientTest.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/Expression.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/SubExpression.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/SymbolExpression.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/VarExpression.java" />
+        <option value="$PROJECT_DIR$/model/src/readme.md" />
       </list>
     </option>
   </component>
@@ -171,9 +171,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,7 +185,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -194,11 +194,11 @@
       <recent name="designModel.structuretype.proxy.dyproxy" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\designpattern\designPattern\model\src\uml" />
+      <recent name="E:\github\designpattern\designPattern\model\src\designModel\behaviortype\interpreter" />
       <recent name="E:\github\designpattern\designPattern\model\src\designModel\behaviortype\memento" />
       <recent name="E:\github\designpattern\designPattern\model\src\designModel\behaviortype\mediator" />
       <recent name="E:\github\designpattern\designPattern\jdksrc\src\com\jdk" />
-      <recent name="E:\github\designpattern\designPattern\model\src\designModel\behaviortype\observer" />
-      <recent name="E:\github\designpattern\designPattern\model\src\designModel\behaviortype\visitor" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -213,18 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (3)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designModel.behaviortype.observer.improve.Client" />
-      <module name="model" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designModel.behaviortype.observer.improve.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Interpreter">
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designModel.behaviortype.memento.theory.Client" />
       <module name="model" />
@@ -247,13 +236,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designModel.behaviortype.observer.Client" />
+    <configuration name="ClientTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designModel.behaviortype.interpreter.ClientTest" />
       <module name="model" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designModel.behaviortype.observer.*" />
+          <option name="PATTERN" value="designModel.behaviortype.interpreter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,6 +254,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="designModel.behaviortype.mediator.smarthouse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Interpreter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring.test.Interpreter" />
+      <module name="spring" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.spring.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,19 +321,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Client" />
-      <item itemvalue="Application.Client (1)" />
       <item itemvalue="Application.ClientTest" />
       <item itemvalue="Application.Client (2)" />
       <item itemvalue="Application.Client (3)" />
+      <item itemvalue="Application.ClientTest (1)" />
+      <item itemvalue="Application.Interpreter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Interpreter" />
+        <item itemvalue="Application.ClientTest (1)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.ClientTest" />
-        <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +371,8 @@
       <workItem from="1608021066553" duration="1978000" />
       <workItem from="1608030301836" duration="77000" />
       <workItem from="1608030403611" duration="7761000" />
-      <workItem from="1608089778339" duration="330000" />
+      <workItem from="1608089778339" duration="687000" />
+      <workItem from="1608090525170" duration="3127000" />
     </task>
     <servers />
   </component>
@@ -408,10 +409,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106287000" />
+    <option name="totallyTimeSpent" value="109771000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" weight="0.29097223" />
@@ -427,24 +428,24 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="leetcode" order="3" side_tool="true" weight="0.15277778" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.23723404" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.25984251" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.2965879" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
-      <window_info anchor="right" auto_hide="true" x="659" y="175" width="121" height="510" id="SciView" order="4" show_stripe_button="false" type="FLOATING" weight="0.084027775" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" auto_hide="true" x="659" y="175" width="121" height="510" id="SciView" order="4" show_stripe_button="false" type="FLOATING" weight="0.084027775" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32978722" />
     </layout>
@@ -452,11 +453,10 @@
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="PlantUML" order="3" weight="0.29097223" />
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.18110237" />
       <window_info anchor="bottom" id="Spring" order="12" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.18110237" />
+      <window_info anchor="right" id="leetcode" order="6" side_tool="true" weight="0.15277778" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
@@ -465,20 +465,21 @@
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50069445" side_tool="true" weight="0.22440945" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="9" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21736111" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="right" id="leetcode" order="6" side_tool="true" weight="0.15277778" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21736111" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
     </layout-to-restore>
   </component>
@@ -494,45 +495,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/visitor/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/visitor/Woman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/visitor/ObjectStructure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/visitor/Wait.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/visitor/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/visitor/访问者模式.cld" />
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/iterator/InfoCollegeIterator.java" />
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/iterator/College.java" />
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/iterator/ComputerCollegeIterator.java" />
     <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/iterator/Department.java" />
     <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/iterator/InfoCollege.java" />
     <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/iterator/OutputImpl.java" />
@@ -584,20 +546,8 @@
     <entry file="file://$PROJECT_DIR$/mytest/src/my202012/QuickSort.java" />
     <entry file="file://$PROJECT_DIR$/mytest/src/my202012/my02.java" />
     <entry file="file://$PROJECT_DIR$/mytest/src/hello.py" />
-    <entry file="file://$PROJECT_DIR$/pythonTest/hello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTest/a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonTest/hello.py" />
+    <entry file="file://$PROJECT_DIR$/pythonTest/a.py" />
     <entry file="file://$PROJECT_DIR$/mytest/src/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
@@ -609,16 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
           <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          <folding>
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -784,11 +724,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/uml/解释器模式.cld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/AddExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/Expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/SubExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/SymbolExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/VarExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/ClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/com/atguigu/spring/test/Interpreter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/model/src/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="256">
-            <caret line="223" lean-forward="true" selection-start-line="223" selection-end-line="223" />
+          <first_editor relative-caret-position="296">
+            <caret line="231" lean-forward="true" selection-start-line="231" selection-end-line="231" />
           </first_editor>
           <second_editor />
         </state>
