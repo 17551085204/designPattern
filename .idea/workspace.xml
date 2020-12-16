@@ -2,22 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a75e30a5-03dd-4c66-83c5-8503ed045029" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/CanRaffleState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/ClientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/DispenseOutState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/DispenseState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/NoRaffleState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/RaffleActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/state/money/AbstractState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/state/money/AllState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/state/money/ClientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/state/money/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/state/money/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/state/money/StateEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdksrc/src/com/jdk/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/PekingDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/ToyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/WildDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/BadFlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/GagaQuarkBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/GegeQuarkBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/GoodFlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/NoFlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/NoQuarkBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/PekingDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/QuarkBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/ToyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/WildDuck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/src/uml/解释器模式.cld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jdksrc/com/jdk/IteratorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jdksrc/com/jdk/IteratorDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/model/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/model/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,90 +36,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model/src/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="404">
-                <caret line="233" lean-forward="true" selection-start-line="233" selection-end-line="233" />
+                <caret line="251" lean-forward="true" selection-start-line="251" selection-end-line="251" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DispenseOutState.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/DispenseOutState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClientTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/ClientTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="State.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/State.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NoRaffleState.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/NoRaffleState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-              <folding>
-                <element signature="e#672#673#0" expanded="true" />
-                <element signature="e#716#717#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractState.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/state/money/AbstractState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="State.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/state/money/State.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1738">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClientTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/state/money/ClientTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RaffleActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/RaffleActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-470">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -138,25 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/visitor/Action.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/visitor/Success.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/visitor/Fail.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/visitor/Person.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/visitor/Man.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/visitor/Woman.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/visitor/ObjectStructure.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/visitor/Wait.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/visitor/Client.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/iterator/Department.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/iterator/ComputerCollegeIterator.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/iterator/InfoCollegeIterator.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/iterator/College.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/iterator/InfoCollege.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/iterator/OutputImpl.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/iterator/ComputerCollege.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/iterator/Client.java" />
-        <option value="$PROJECT_DIR$/jdksrc/src/com/jdk/IteratorDemo.java" />
-        <option value="$PROJECT_DIR$/mytest/src/my202012/mytest1.java" />
         <option value="$PROJECT_DIR$/mytest/src/my202012/QuickSort.java" />
         <option value="$PROJECT_DIR$/mytest/src/my202012/my02.java" />
         <option value="$PROJECT_DIR$/mytest/src/Hello.java" />
@@ -184,11 +96,30 @@
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/SubExpression.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/SymbolExpression.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/VarExpression.java" />
-        <option value="$PROJECT_DIR$/model/src/readme.md" />
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/state/State.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/CanRaffleState.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/NoRaffleState.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/state/money/AbstractState.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/Duck.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/WildDuck.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/PekingDuck.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/ToyDuck.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/Client.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/FlyBehavior.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/GoodFlyBehavior.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/BadFlyBehavior.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/NoFlyBehavior.java" />
+        <option value="$PROJECT_DIR$/jdksrc/src/com/jdk/Strategy.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/QuarkBehavior.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/NoQuarkBehavior.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/GegeQuarkBehavior.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/GagaQuarkBehavior.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/Duck.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/PekingDuck.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/ToyDuck.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/WildDuck.java" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/Client.java" />
+        <option value="$PROJECT_DIR$/model/src/readme.md" />
       </list>
     </option>
   </component>
@@ -201,9 +132,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="69" />
-    <option name="y" value="67" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-62" />
+    <option name="y" value="536" />
     <option name="width" value="1677" />
     <option name="height" value="1004" />
   </component>
@@ -227,45 +158,6 @@
               <item name="model" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="designModel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="designModel" type="462c0819:PsiDirectoryNode" />
-              <item name="behaviortype" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="designModel" type="462c0819:PsiDirectoryNode" />
-              <item name="behaviortype" type="462c0819:PsiDirectoryNode" />
-              <item name="state" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="designModel" type="462c0819:PsiDirectoryNode" />
-              <item name="behaviortype" type="462c0819:PsiDirectoryNode" />
-              <item name="state" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="designModel" type="462c0819:PsiDirectoryNode" />
-              <item name="behaviortype" type="462c0819:PsiDirectoryNode" />
-              <item name="state" type="462c0819:PsiDirectoryNode" />
-              <item name="money" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -288,16 +180,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="designModel.behaviortype.strategy.improve" />
       <recent name="designModel.behaviortype.observer.improve" />
       <recent name="designModel.behaviortype.iterator" />
       <recent name="designModel.structuretype.proxy.dyproxy" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\designpattern\designPattern\jdksrc\src\com\jdk" />
+      <recent name="E:\github\designpattern\designPattern\model\src\designModel\behaviortype\strategy\improve" />
       <recent name="E:\github\designpattern\designPattern\model\src\designModel\behaviortype\state\money" />
       <recent name="E:\github\designpattern\designPattern\model\src\designModel\behaviortype\state\app" />
       <recent name="E:\github\designpattern\designPattern\model\src\designModel\behaviortype\state" />
-      <recent name="E:\github\designpattern\designPattern\model\src\uml" />
-      <recent name="E:\github\designpattern\designPattern\model\src\designModel\behaviortype\interpreter" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -312,25 +205,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClientTest">
-    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designModel.behaviortype.memento.game.Client" />
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designModel.behaviortype.strategy.improve.Client" />
       <module name="model" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designModel.behaviortype.memento.game.*" />
+          <option name="PATTERN" value="designModel.behaviortype.strategy.improve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ClientTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designModel.behaviortype.interpreter.ClientTest" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designModel.behaviortype.strategy.Client" />
       <module name="model" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designModel.behaviortype.interpreter.*" />
+          <option name="PATTERN" value="designModel.behaviortype.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -357,13 +250,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Interpreter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring.test.Interpreter" />
-      <module name="spring" />
+    <configuration name="Strategy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jdk.Strategy" />
+      <module name="jdksrc" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.spring.test.*" />
+          <option name="PATTERN" value="com.jdk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,19 +313,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Client (3)" />
-      <item itemvalue="Application.ClientTest (1)" />
-      <item itemvalue="Application.Interpreter" />
       <item itemvalue="Application.ClientTest (2)" />
       <item itemvalue="Application.ClientTest" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.Strategy" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Strategy" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.ClientTest" />
         <item itemvalue="Application.ClientTest (2)" />
-        <item itemvalue="Application.Interpreter" />
-        <item itemvalue="Application.ClientTest (1)" />
-        <item itemvalue="Application.Client (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -472,7 +365,7 @@
       <workItem from="1608030403611" duration="7761000" />
       <workItem from="1608089778339" duration="687000" />
       <workItem from="1608090525170" duration="3127000" />
-      <workItem from="1608122609423" duration="2962000" />
+      <workItem from="1608122609423" duration="7861000" />
     </task>
     <servers />
   </component>
@@ -509,10 +402,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112733000" />
+    <option name="totallyTimeSpent" value="117632000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="420" y="56" width="1677" height="1004" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" weight="0.29097223" />
@@ -534,10 +427,10 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="leetcode" order="3" side_tool="true" weight="0.15277778" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.20157658" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.32978722" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.2965879" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19265503" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1921875" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32975295" />
       <window_info anchor="right" auto_hide="true" x="659" y="175" width="121" height="510" id="SciView" order="4" show_stripe_button="false" type="FLOATING" weight="0.084027775" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -595,109 +488,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mytest/src/my202012/my02.java" />
-    <entry file="file://$PROJECT_DIR$/mytest/src/hello.py" />
-    <entry file="file://$PROJECT_DIR$/pythonTest/hello.py" />
-    <entry file="file://$PROJECT_DIR$/pythonTest/a.py" />
-    <entry file="file://$PROJECT_DIR$/mytest/src/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/observer/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/modules.uml" />
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/observer/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/observer/improve/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/observer/improve/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/observer/CurrentConditions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/observer/improve/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/observer/improve/Baidu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/observer/improve/CurrentConditions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/observer/improve/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jdksrc/src/com/jdk/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/mediator/smarthouse/TV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/mediator/smarthouse/Colleague.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/mediator/smarthouse/Mediator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/mediator/smarthouse/Alarm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
@@ -800,19 +590,6 @@
     <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/DispenseState.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/CanRaffleState.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="404">
-            <caret line="233" lean-forward="true" selection-start-line="233" selection-end-line="233" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/ClientTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
@@ -831,13 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-470">
           <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/DispenseOutState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -870,6 +640,235 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
           <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/CanRaffleState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="987">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/state/app/DispenseOutState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/WildDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/PekingDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/ToyDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/GoodFlyBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/BadFlyBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/NoFlyBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdksrc/src/com/jdk/Strategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="29" column="10" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/FlyBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/QuarkBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/NoQuarkBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/GegeQuarkBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/ToyDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/WildDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/GagaQuarkBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/PekingDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="404">
+            <caret line="251" lean-forward="true" selection-start-line="251" selection-end-line="251" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
