@@ -7,7 +7,7 @@ package designModel.behaviortype.responsibilitychain;
 
 public class Client {
     public static void main(String[] args) {
-        PurchaseRequest purchaseRequest = new PurchaseRequest(1, 2000, 1);
+        PurchaseRequest purchaseRequest = new PurchaseRequest(1, 31000, 1);
         DepartmentApprover departmentApprover = new DepartmentApprover("系主任");
         CollegeApprover collegeApprover = new CollegeApprover("院长");
         ViceSchoolMasterApprover viceSchoolMasterApprover = new ViceSchoolMasterApprover("副校长");
@@ -18,7 +18,6 @@ public class Client {
         schoolMasterApprover.setApprover(departmentApprover);
 
         schoolMasterApprover.processRequest(purchaseRequest);
-
 
 
     }

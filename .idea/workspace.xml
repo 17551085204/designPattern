@@ -2,29 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a75e30a5-03dd-4c66-83c5-8503ed045029" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/jdksrc/src/com/jdk/Strategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/PekingDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/ToyDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/WildDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/BadFlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/GagaQuarkBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/GegeQuarkBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/GoodFlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/NoFlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/NoQuarkBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/PekingDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/QuarkBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/ToyDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/strategy/improve/WildDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/Facade.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/iterator.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/money.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/springMVC.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/中介者模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/享元模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/代理模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/原型模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/命令模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/备忘录模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/外观模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/工厂方法模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/建造者模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/抽象工厂模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/桥接模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/模板模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/状态模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/策略模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/简单工厂模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/组合模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/装饰器模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/观察者模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/解释器模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/访问者模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/迭代器模式.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/uml/适配器模式.cld" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jdksrc/com/jdk/IteratorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jdksrc/com/jdk/IteratorDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/uml/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/uml/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/model/designModel/behaviortype/responsibilitychain/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/model/designModel/behaviortype/responsibilitychain/Client.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/model/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/model/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/model/uml/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/model/uml/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +50,8 @@
         <entry file="file://$PROJECT_DIR$/model/src/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="376">
-                <caret line="259" lean-forward="true" selection-start-line="259" selection-end-line="259" />
+              <first_editor relative-caret-position="406">
+                <caret line="260" lean-forward="true" selection-start-line="260" selection-end-line="260" />
               </first_editor>
               <second_editor />
             </state>
@@ -69,7 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/observer/WeatherData.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/observer/improve/Subject.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/observer/improve/Observer.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/observer/improve/WeatherData.java" />
@@ -118,8 +127,9 @@
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/VichApprover.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/ViceSchoolMasterApprover.java" />
         <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/SchoolMasterApprover.java" />
-        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/Client.java" />
         <option value="$PROJECT_DIR$/model/src/readme.md" />
+        <option value="$PROJECT_DIR$/model/src/uml/readme.md" />
+        <option value="$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/Client.java" />
       </list>
     </option>
   </component>
@@ -146,8 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -161,10 +169,33 @@
               <item name="model" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="designModel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="designModel" type="462c0819:PsiDirectoryNode" />
+              <item name="behaviortype" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="designModel" type="462c0819:PsiDirectoryNode" />
+              <item name="behaviortype" type="462c0819:PsiDirectoryNode" />
+              <item name="responsibilitychain" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -206,7 +237,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DispatchServlet">
+  <component name="RunManager" selected="Application.Client (2)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designModel.behaviortype.strategy.improve.Client" />
       <module name="model" />
@@ -322,8 +353,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DispatchServlet" />
         <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.DispatchServlet" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Strategy" />
         <item itemvalue="Application.Client" />
@@ -369,6 +400,7 @@
       <workItem from="1608122609423" duration="7861000" />
       <workItem from="1608203407833" duration="1387000" />
       <workItem from="1608204960704" duration="1053000" />
+      <workItem from="1608212746638" duration="242000" />
     </task>
     <servers />
   </component>
@@ -405,10 +437,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120072000" />
+    <option name="totallyTimeSpent" value="120314000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" weight="0.29097223" />
@@ -430,10 +462,11 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="leetcode" order="3" side_tool="true" weight="0.15277778" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.32545933" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.29787233" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.2965879" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22361112" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2234375" />
+      <window_info anchor="right" auto_hide="true" x="659" y="175" width="121" height="510" id="SciView" order="4" show_stripe_button="false" type="FLOATING" weight="0.084027775" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -441,7 +474,6 @@
       <window_info anchor="bottom" id="Find" order="1" weight="0.32975295" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" auto_hide="true" x="659" y="175" width="121" height="510" id="SciView" order="4" show_stripe_button="false" type="FLOATING" weight="0.084027775" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32978722" />
     </layout>
@@ -449,11 +481,10 @@
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="PlantUML" order="3" weight="0.29097223" />
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.18110237" />
       <window_info anchor="bottom" id="Spring" order="12" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.18110237" />
+      <window_info anchor="right" id="leetcode" order="6" side_tool="true" weight="0.15277778" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
@@ -462,20 +493,21 @@
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50069445" side_tool="true" weight="0.22440945" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="9" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21736111" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="right" id="leetcode" order="6" side_tool="true" weight="0.15277778" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21736111" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
     </layout-to-restore>
   </component>
@@ -491,9 +523,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/model/src/uml/解释器模式.cld" />
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/AddExpression.java" />
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/Calculator.java" />
     <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/Expression.java" />
     <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/SubExpression.java" />
     <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/interpreter/SymbolExpression.java" />
@@ -706,83 +735,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/uml/职责链模式.cld">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/PurchaseRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/Approver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/DepartmentApprover.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
-          <folding>
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/VichApprover.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/CollegeApprover.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/ViceSchoolMasterApprover.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/SchoolMasterApprover.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/PurchaseRequest.java" />
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/Approver.java" />
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/DepartmentApprover.java" />
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/VichApprover.java" />
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/CollegeApprover.java" />
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/ViceSchoolMasterApprover.java" />
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/SchoolMasterApprover.java" />
     <entry file="file://$PROJECT_DIR$/spring/src/com/atguigu/spring/bean/Monster.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -794,18 +753,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="664">
           <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
-          <folding>
-            <element signature="e#1083#1084#0" expanded="true" />
-            <element signature="e#1135#1136#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/uml/代理模式.cld">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/uml/职责链模式.cld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/uml/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="47">
+            <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/uml/建造者模式.cld">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/designModel/behaviortype/responsibilitychain/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model/src/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="376">
-            <caret line="259" lean-forward="true" selection-start-line="259" selection-end-line="259" />
+          <first_editor relative-caret-position="406">
+            <caret line="260" lean-forward="true" selection-start-line="260" selection-end-line="260" />
           </first_editor>
           <second_editor />
         </state>
