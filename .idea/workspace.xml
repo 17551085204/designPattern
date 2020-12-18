@@ -50,8 +50,8 @@
         <entry file="file://$PROJECT_DIR$/model/src/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="406">
-                <caret line="260" lean-forward="true" selection-start-line="260" selection-end-line="260" />
+              <first_editor relative-caret-position="366">
+                <caret line="259" lean-forward="true" selection-start-line="259" selection-end-line="259" />
               </first_editor>
               <second_editor />
             </state>
@@ -156,7 +156,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,8 +195,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -401,6 +401,8 @@
       <workItem from="1608203407833" duration="1387000" />
       <workItem from="1608204960704" duration="1053000" />
       <workItem from="1608212746638" duration="242000" />
+      <workItem from="1608262949846" duration="159000" />
+      <workItem from="1608276142265" duration="604000" />
     </task>
     <servers />
   </component>
@@ -437,11 +439,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120314000" />
+    <option name="totallyTimeSpent" value="121077000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" weight="0.29097223" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -456,24 +457,25 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="开发助手" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="leetcode" order="3" side_tool="true" weight="0.15277778" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.29787233" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.2965879" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2234375" />
-      <window_info anchor="right" auto_hide="true" x="659" y="175" width="121" height="510" id="SciView" order="4" show_stripe_button="false" type="FLOATING" weight="0.084027775" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22291666" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32975295" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" auto_hide="true" x="659" y="175" width="121" height="510" id="SciView" order="4" show_stripe_button="false" type="FLOATING" weight="0.084027775" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32978722" />
     </layout>
@@ -789,8 +791,8 @@
     <entry file="file://$PROJECT_DIR$/model/src/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="406">
-            <caret line="260" lean-forward="true" selection-start-line="260" selection-end-line="260" />
+          <first_editor relative-caret-position="366">
+            <caret line="259" lean-forward="true" selection-start-line="259" selection-end-line="259" />
           </first_editor>
           <second_editor />
         </state>
